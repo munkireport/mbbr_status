@@ -1,4 +1,5 @@
-	<h2 data-i18n="client.tab.mbbr_status"></h2>
+<div id="mbbr-tab"></div>
+<h2 data-i18n="mbbr.report">Malwarebytes Status </h2>
 
 	<div id="mbbr_status-msg" data-i18n="listing.loading" class="col-lg-12 text-center"></div>
 
